@@ -1,0 +1,46 @@
+#shelters {
+	padding-top: 250px;
+}
+
+.bed, .home {
+	color: black;
+	margin: 2px;
+	font-size: 24px;
+    transition: color 1s;
+}
+.magic-space p {
+	/* height: 1500px; */
+		padding-top: 250px;
+		height: 500px;
+}
+.magic-police .police-stations {
+	color: lightgrey;
+    transition: color 1s;
+}
+
+/* This is what I've added. */
+
+.magic-seniors .senior-centers {
+	color: lightgrey;
+		transition: color 1s;
+}
+.magic-libraries .libraries {
+	color:lightgrey;
+		transition: color 1s;
+}
+.magic-walkable .walkable {
+	color: lightgrey;
+		transition: color 1s;
+}
+.magic-youth .youth-shelters {
+	color: lightgrey;
+		transition: color 1s;
+}
+.magic-men .mens-shelters {
+	color: lightgrey;
+		transition: color 1s;
+}
+.magic-coed .coed-shelters {
+	color: lightgrey;
+		transition: color 1s;
+}
